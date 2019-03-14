@@ -1,0 +1,18 @@
+{
+  "name": "multi-ssh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-file": "^2.0.2",
+    "delay": "^4.1.0",
+    "fs": "0.0.1-security",
+    "readline-sync": "^1.4.9",
+    "simple-ssh": "^1.0.0"
+  }
+}
