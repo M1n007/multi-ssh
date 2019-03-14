@@ -14,6 +14,8 @@ $cd multi-ssh
 $node index
 ```
 
+![screenshot](multissh.PNG)
+
 ## WARN
 
 only for the same password
